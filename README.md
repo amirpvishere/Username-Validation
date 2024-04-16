@@ -2,7 +2,7 @@ def username_validation(username):
     if len(username) < 4:
         print('Your username must be at least 4 character')
     else:
-        print('Your username has been created succesfully')
+        print('Your username has been created successfully)
 
 while True:
     username = input('Enter your username: ')
